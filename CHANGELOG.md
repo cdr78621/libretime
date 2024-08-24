@@ -1,5 +1,18 @@
 # Changelog
 
+## [4.3.0](https://github.com/libretime/libretime/compare/4.2.0...4.3.0) (2024-08-24)
+
+
+### Features
+
+* **legacy:** order by filename when lptime is null ([#3069](https://github.com/libretime/libretime/issues/3069)) ([8c26505](https://github.com/libretime/libretime/commit/8c2650562289bc790f994b2a2bd2d0d9e97957cb))
+
+
+### Bug Fixes
+
+* docker warnings "keywords casing do not match" ([#3048](https://github.com/libretime/libretime/issues/3048)) ([e095cb2](https://github.com/libretime/libretime/commit/e095cb2a5f6b0b62613b7a6bab9a820d5a4a85f3))
+* **legacy:** fix filename criteria searching ([#3068](https://github.com/libretime/libretime/issues/3068)) ([c883d0f](https://github.com/libretime/libretime/commit/c883d0f2d570dc502dbec99c0f1d2e53fd2e3419))
+
 ## [4.2.0](https://github.com/libretime/libretime/compare/4.1.0...4.2.0) (2024-06-22)
 
 
